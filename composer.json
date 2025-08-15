@@ -1,5 +1,5 @@
 {
-    "name": "laravel/boost",
+    "name": "kenzi-laravel/boost",
     "description": "Laravel Boost accelerates AI-assisted development to generate high-quality, Laravel-specific code.",
     "keywords": [
         "dev",
