@@ -69,6 +69,20 @@
             "pestphp/pest-plugin": true
         }
     },
+    {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kenzi-ugene/kenzi-laravel-boost.git"
+        }
+    ],
+    "require": {
+        "kenzi-laravel/boost": "dev-main"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
     "minimum-stability": "dev",
     "prefer-stable": true
 }
